@@ -6,11 +6,22 @@ _Une chercheuse qui vient « du siècle dernier ». Elle aime être l'aînée de
 
 ## Statistiques
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Ascencion | Niveau | PV de base | ATQ de base | DEF de base | Taux CRIT | Dégâts CRIT | ATQ% |
+| --------- | ------ | ---------- | ----------- | ----------- | --------- | ----------- | ---- |
+| A0        | 1      |            |             |             |           |             |      |
+| A0        | 20     |            |             |             |           |             |      |
+| A1        | 20     |            |             |             |           |             |      |
+| A1        | 40     |            |             |             |           |             |      |
+| A2        | 40     |            |             |             |           |             |      |
+| A2        | 50     |            |             |             |           |             |      |
+| A3        | 50     |            |             |             |           |             |      |
+| A3        | 60     |            |             |             |           |             |      |
+| A4        | 60     |            |             |             |           |             |      |
+| A4        | 70     |            |             |             |           |             |      |
+| A5        | 70     |            |             |             |           |             |      |
+| A5        | 80     |            |             |             |           |             |      |
+| A6        | 80     |            |             |             |           |             |      |
+| A6        | 90     |            |             |             |           |             |      |
 
 ## Aptitudes
 
@@ -49,6 +60,67 @@ _Les vents de la sincérité soufflent sur les esprits de ceux qui recherchent l
 {% endtab %}
 
 {% tab title="Déchaînement élémentaire" %}
+<img src="https://api.ambr.top/assets/UI/Skill_E_Faruzan_01.png" alt="" data-size="line"> **Q. Sentier secret du vent**
 
+Faruzan déploie rapidement un polyèdre éblouissant qui libère une impulsion de tourbillon et inflige des DGT Anémo de zone.\
+Pendant sa durée, le polyèdre éblouissant bouge de façon continue en suivant une trajectoire en triangle, libérant une impulsion de tourbillon à chaque fois qu'il arrive à une des pointes.\
+\
+**Impulsion de tourbillon**\
+· Lorsqu'une impulsion de tourbillon est libérée, elle inflige aux ennemis proches l'effet Calamité de vent : diminue la RÉS Anémo.\
+· Lorsqu'une impulsion de tourbillon est libérée, elle accorde l'effet Vent de prière à tous les personnages de l'équipe à proximité : accorde un bonus de DGT Anémo.\
+\
+_Il est nécessaire de faire preuve de respect pour la sagesse inconnue qui pourrait être cachée dans des ruines antiques._
+
+<table><thead><tr><th width="185">Coup</th><th>Niv. 1</th><th>Niv. 2</th><th>Niv. 3</th><th>Niv. 4</th><th>Niv. 5</th><th>Niv. 6</th><th>Niv. 7</th><th>Niv. 8</th><th>Niv. 9</th><th>Niv. 10</th><th>Niv. 11</th><th>Niv. 12</th><th>Niv. 13</th></tr></thead><tbody><tr><td>DGT compétence</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Bonus DGT Anémo</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+**Durée de vent de prière** : 4 secondes\
+**Baisse RÉS Anémo** : 30% secondes\
+**Durée de calamité de vent** : 4 secondes\
+**Durée** : 12 secondes\
+**Temps de recharge** : 20 secondes\
+**Énergie élémentaire** : 80&#x20;
 {% endtab %}
 {% endtabs %}
+
+## Constellations
+
+{% tabs %}
+{% tab title="C1" %}
+<img src="https://api.ambr.top/assets/UI/UI_Talent_S_Faruzan_01.png" alt="" data-size="line"> **Vérité à tout prix**
+
+Faruzan peut tirer un maximum de 2 flèches d'ouragan en utilisant des tirs visés à pleine charge pendant l'effet d'une seule épiphanie du vent de **Royaume venteux de nasamjnin**.
+{% endtab %}
+
+{% tab title="C2" %}
+<img src="https://api.ambr.top/assets/UI/UI_Talent_S_Faruzan_02.png" alt="" data-size="line"> **Intelligence zélée**
+
+La durée du polyèdre éblouissant de **Sentier secret du vent** augmente de 6 s.
+{% endtab %}
+
+{% tab title="C3" %}
+<img src="https://api.ambr.top/assets/UI/UI_Talent_U_Faruzan_01.png" alt="" data-size="line"> **Errance au jardin spirituel**
+
+Niveau d'aptitude **Royaume venteux de nasamjnin** +3. Niveau max : 15
+{% endtab %}
+
+{% tab title="C4" %}
+<img src="https://api.ambr.top/assets/UI/UI_Talent_S_Faruzan_03.png" alt="" data-size="line"> **Compréhension divine**
+
+Le vortex créé par **Effondrement compressé** restaure l'énergie élémentaire de Faruzan selon la quantité d'ennemis touchés : si un ennemi est touché, Faruzan récupère 2 pts, puis chaque ennemi touché lui permet de récupérer 0,5 pt. Un vortex peut restaurer un maximum de 4 pts d'énergie élémentaire de cette manière.
+{% endtab %}
+
+{% tab title="C5" %}
+<img src="https://api.ambr.top/assets/UI/UI_Talent_U_Faruzan_02.png" alt="" data-size="line"> **Merveilles de contemplation**
+
+Niveau d'aptitude **Sentier secret du vent** +3. Niveau max : 15
+{% endtab %}
+
+{% tab title="C6" %}
+<img src="https://api.ambr.top/assets/UI/UI_Talent_S_Faruzan_04.png" alt="" data-size="line"> **Merveilleux chemin de la vérité**
+
+Les DGT CRIT des personnages sous l'effet Vent de prière de **Sentier secret du vent** augmentent de 40 % lorsqu'ils infligent des DGT Anémo. Lorsque le personnage déployé inflige des DGT alors qu'il est affecté par l'effet Vent de prière, il inflige l'effet Effondrement compressé à l'ennemi, cet effet pouvant être déclenché une fois toutes les 3 s et son TdR étant partagé entre tous les personnages de l'équipe.
+{% endtab %}
+{% endtabs %}
+
+## Détails
+

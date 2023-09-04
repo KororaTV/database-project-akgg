@@ -82,6 +82,28 @@ _Il est nécessaire de faire preuve de respect pour la sagesse inconnue qui pour
 {% endtab %}
 {% endtabs %}
 
+## Passifs
+
+{% tabs %}
+{% tab title="Passif A1" %}
+<img src="https://api.ambr.top/assets/UI/UI_Talent_S_Faruzan_05.png" alt="" data-size="line"> **Courant impétueux**
+
+Lorsque Faruzan est dans l'état Épiphanie du vent de **Royaume venteux de nasamjnin**, la durée de charge de son tir visé est réduite de 60 % et elle inflige l'effet Calamité de vent de **Sentier secret du vent** aux ennemis touchés par le vortex créé par l'effet Effondrement compressé.
+{% endtab %}
+
+{% tab title="Passif A4" %}
+<img src="https://api.ambr.top/assets/UI/UI_Talent_S_Faruzan_06.png" alt="" data-size="line"> **Sagesse perdue des sept cavernes**
+
+Lorsqu'un personnage sous l'effet Vent de prière de **Sentier secret du vent** inflige des DGT Anémo à un ennemi en utilisant une attaque normale, chargée ou plongeante ou une compétence ou un déchaînement élémentaires, il déclenche l'effet Protection venteuse : augmente les DGT infligés d'une valeur équivalant à 32 % de l'ATQ de base de Faruzan. Un effet Protection venteuse peut être déclenché une fois toutes les 0,8 s. Cet effet disparaît à la fin de la durée du vent de prière ou après avoir été activé 1 fois.
+{% endtab %}
+
+{% tab title="Passif utilitaire" %}
+<img src="https://api.ambr.top/assets/UI/UI_Talent_S_Cyno_07.png" alt="" data-size="line"> **Illumination des tomes**
+
+Augmente les récompenses d'une expédition de 20 h à Sumeru de 25 %.
+{% endtab %}
+{% endtabs %}
+
 ## Constellations
 
 {% tabs %}
@@ -122,5 +144,53 @@ Les DGT CRIT des personnages sous l'effet Vent de prière de **Sentier secret du
 {% endtab %}
 {% endtabs %}
 
+## Matériaux d'amélioration
+
+* Général
+  * Brocart rouge luxueux <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_112067.png" alt="" data-size="line">
+* Élévation
+  * Quandong <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_101220.png" alt="" data-size="line">
+  * Tétraèdre de lumière <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_113039.png" alt="" data-size="line">
+* Aptitudes :&#x20;
+  * Admonestation <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_104331.png" alt="" data-size="line">
+  * Fils de marionnette <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_113041.png" alt="" data-size="line">
+
+## Divers
+
+{% tabs %}
+{% tab title="Thème de personnage" %}
+**Faruzan - Secret scellé**\
+Obtention au niveau d'affinité 10
+
+<figure><img src="https://api.ambr.top/assets/UI/namecard/UI_NameCardPic_Faruzan_P.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Tenue" %}
+**Élégance immaculée**\
+Tenue de Faruzan. Ces habits simples qui n'en sont pas moins élégants sont à l'image de sa pureté incorruptible. Ils étaient très à la mode au sein de l'Académie le siècle dernier et sont rarement portés de nos jours.
+{% endtab %}
+
+{% tab title="Spécialité culinaire" %}
+**Charbon d'ajilenakh traditionnel**
+
+![](https://api.ambr.top/assets/UI/UI\_ItemIcon\_108478.png)
+{% endtab %}
+{% endtabs %}
+
 ## Détails
+
+{% tabs %}
+{% tab title="Aptitudes" %}
+* L'attaque chargée n'a pas d'ICD
+*
+{% endtab %}
+
+{% tab title="Constellations" %}
+* La C6 peut déclencher les effets du 4p Ténacité du Millelithe.
+{% endtab %}
+
+{% tab title="Synergies" %}
+*
+{% endtab %}
+{% endtabs %}
 

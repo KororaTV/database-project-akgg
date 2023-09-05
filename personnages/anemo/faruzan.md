@@ -23,6 +23,8 @@ _Une chercheuse qui vient « du siècle dernier ». Elle aime être l'aînée de
 | A6        | 80/90  | 8 907      | 182         | 584         | 5%        | 50%         | 24%  |
 | A6        | 90/90  | 9 569      | 196         | 627         | 5%        | 50%         | 24%  |
 
+Faruzan possède une élévation ATQ%.
+
 ## Aptitudes
 
 {% tabs %}
@@ -146,14 +148,21 @@ Les DGT CRIT des personnages sous l'effet Vent de prière de **Sentier secret du
 
 ## Matériaux d'amélioration
 
-* Général
-  * Brocart rouge luxueux <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_112067.png" alt="" data-size="line">
-* Élévation
-  * Quandong <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_101220.png" alt="" data-size="line">
-  * Tétraèdre de lumière <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_113039.png" alt="" data-size="line">
-* Aptitudes :&#x20;
-  * Admonestation <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_104331.png" alt="" data-size="line">
-  * Fils de marionnette <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_113041.png" alt="" data-size="line">
+* **7 049 900x** Moras <img src="../../.gitbook/assets/Mora" alt="" data-size="line">
+* **419x** Leçons du héros <img src="../../.gitbook/assets/Leçons du héros" alt="" data-size="line">
+* **36x** Satin rouge délavé <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_112065.png" alt="" data-size="line">
+* **96x** Soie rouge brodée <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_112066.png" alt="" data-size="line">
+* **129x** Brocart rouge luxueux <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_112067.png" alt="" data-size="line">
+* **168x** Quandong <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_101220.png" alt="" data-size="line">
+* **46x** Tétraèdre de lumière <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_113039.png" alt="" data-size="line">
+* **9x** Enseignement de l'Admonestation <img src="../../.gitbook/assets/Enseignement de l&#x27;Admonestation" alt="" data-size="line">
+* **63x** Guide de l'Admonestation <img src="../../.gitbook/assets/Guide de l&#x27;Admonestation" alt="" data-size="line">
+* **114x** Philosophie de l'Admonestation <img src="../../.gitbook/assets/Insigne de sergent" alt="" data-size="line">
+* **18x** Fils de marionnette <img src="https://api.ambr.top/assets/UI/UI_ItemIcon_113041.png" alt="" data-size="line">
+
+{% hint style="info" %}
+Les quantités sont calculées pour passer du **niveau 1 à 90** et les 3 aptitudes au niveau 10.
+{% endhint %}
 
 ## Divers
 

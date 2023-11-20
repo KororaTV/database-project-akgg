@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Faruzan
 
 <figure><img src="https://api.ambr.top/assets/UI/UI_Gacha_AvatarImg_Faruzan.png" alt=""><figcaption></figcaption></figure>
@@ -31,6 +45,8 @@ Faruzan possède une élévation ATQ%.
 {% tab title="Attaque normale" %}
 <img src="https://api.ambr.top/assets/UI/Skill_A_02.png" alt="" data-size="line"> **Attaque normale : Tir parthe**
 
+<figure><img src="../../.gitbook/assets/bb16cd4b5f7ee0a7eb7f1af9d8712011_2958099364409306591.gif" alt=""><figcaption></figcaption></figure>
+
 **Attaque normale**\
 Enchaîne jusqu'à 4 tirs consécutifs.
 
@@ -40,11 +56,17 @@ Effectue un tir visé plus précis infligeant davantage de DGT. Lors de la visé
 **Attaque plongeante**\
 Tire une pluie de flèches depuis les airs et plonge au sol, attaquant les ennemis en chemin et infligeant des DGT de zone à l'impact.
 
-<table><thead><tr><th width="171">Coup</th><th>Niv. 1</th><th>Niv. 2</th><th>Niv. 3</th><th>Niv. 4</th><th>Niv. 5</th><th>Niv. 6</th><th>Niv. 7</th><th>Niv. 8</th><th>Niv. 9</th><th>Niv. 10</th><th>Niv. 11</th></tr></thead><tbody><tr><td>DGT 1er coup</td><td>44.7%</td><td>48.4%</td><td>52.0%</td><td>57.2%</td><td>60.9%</td><td>65.0%</td><td>70.7%</td><td>76.5%</td><td>82.2%</td><td>88.4%</td><td>94.7%</td></tr><tr><td>DGT 2e coup</td><td>42.2%</td><td>45.6%</td><td>49.1%</td><td>54.0%</td><td>57.4%</td><td>61.3%</td><td>66.7%</td><td>72.1%</td><td>77.5%</td><td>83.4%</td><td>89.3%</td></tr><tr><td>DGT 3e coup</td><td>53.2%</td><td>57.5%</td><td>61.8%</td><td>68.0%</td><td>72.3%</td><td>77.3%</td><td>84.1%</td><td>90.9%</td><td>97.7%</td><td>105.1%</td><td>112.5%</td></tr><tr><td>DGT 4e coup</td><td>70.6%</td><td>76.4%</td><td>82.1%</td><td>90.3%</td><td>96.1%</td><td>102.6%</td><td>111.7%</td><td>120.7%</td><td>129.7%</td><td>139.6%</td><td>149.5%</td></tr><tr><td>DGT tir visé</td><td>43.9%</td><td>47.4%</td><td>51.0%</td><td>56.1%</td><td>59.7%</td><td>63.7%</td><td>69.4%</td><td>75.0%</td><td>80.6%</td><td>86.7%</td><td>92.8%</td></tr><tr><td>DGT tir visé (pleine charge)</td><td>124%</td><td>133%</td><td>143%</td><td>155%</td><td>164%</td><td>174%</td><td>186%</td><td>198%</td><td>211%</td><td>223%</td><td>236%</td></tr><tr><td>DGT durant la chute</td><td>56.8%</td><td>61.5%</td><td>66.1%</td><td>72.7%</td><td>77.3%</td><td>82.6%</td><td>89.9%</td><td>97.1%</td><td>104.4%</td><td>112.3%</td><td>120.3%</td></tr><tr><td>DGT chute basse/élevée</td><td>114%/142%</td><td>123%/153%</td><td>132%/165%</td><td>145%/182%</td><td>155%/193%</td><td>165%/206%</td><td>180%/224%</td><td>194%/243%</td><td>209%/261%</td><td>225%/281%</td><td>240%/300%</td></tr></tbody></table>
+<table><thead><tr><th width="164">Niv.</th><th width="97">Niv.1</th><th>Niv.2</th><th>Niv.3</th><th>Niv.4</th><th>Niv.5</th><th>Niv.6</th><th>Niv.7</th><th>Niv.8</th><th>Niv.9</th><th>Niv.10</th><th>Niv.11</th><th>Niv.12</th><th>Niv.13</th></tr></thead><tbody><tr><td>DGT 1er coup</td><td>44.7%</td><td>48.4%</td><td>52.0%</td><td>57.2%</td><td>60.9%</td><td>65.0%</td><td>70.7%</td><td>76.5%</td><td>82.2%</td><td>88.4%</td><td>94.7%</td><td>100.9%</td><td>107.1%</td></tr><tr><td>DGT 2e coup</td><td>42.2%</td><td>45.6%</td><td>49.1%</td><td>54%</td><td>57.4%</td><td>61.3%</td><td>66.7%</td><td>72.1%</td><td>77.5%</td><td>83.4%</td><td>89.3%</td><td>95.2%</td><td>101.1%</td></tr><tr><td>DGT 3e coup</td><td>53.2%</td><td>57.5%</td><td>61.8%</td><td>68%</td><td>72.3%</td><td>77.3%</td><td>84.1%</td><td>90.9%</td><td>97.7%</td><td>105.1%</td><td>112.5%</td><td>119.9%</td><td>127.4%</td></tr><tr><td>DGT 4e coup</td><td>70.6%</td><td>76.4%</td><td>82.1%</td><td>90.3%</td><td>96.1%</td><td>102.7%</td><td>111.7%</td><td>120.7%</td><td>129.7%</td><td>139.6%</td><td>149.5%</td><td>159.3%</td><td>169.2%</td></tr><tr><td>DGT tir visé</td><td>43.9%</td><td>47.4%</td><td>51%</td><td>56.1%</td><td>59.7%</td><td>63.8%</td><td>69.4%</td><td>75%</td><td>80.6%</td><td>86.7%</td><td>92.8%</td><td>98.9%</td><td>105.1%</td></tr><tr><td>DGT tir visé (pleine charge)</td><td>124%</td><td>133.3%</td><td>142.6%</td><td>155%</td><td>164.3%</td><td>173.6%</td><td>186%</td><td>198.4%</td><td>210.8%</td><td>223.2%</td><td>235.6%</td><td>248%</td><td>263.5%</td></tr><tr><td>DGT durant la chute</td><td>56.8%</td><td>61.5%</td><td>66.0%</td><td>72.7%</td><td>77.3%</td><td>82.6%</td><td>89.9%</td><td>97.1%</td><td>104.4%</td><td>112.3%</td><td>120.3%</td><td>128.2%</td><td>136.1%</td></tr><tr><td>DGT chute basse/élevée</td><td>113.6%/141.9%</td><td>122.9%/153.5%</td><td>132.1%/165.0%</td><td>145.4%/181.5%</td><td>154.6%/193.1%</td><td>165.2%/206.3%</td><td>179.7%/224.5%</td><td>194.2%/242.6%</td><td>208.8%/260.8%</td><td>224.6%/280.6%</td><td>240.5%/300.4%</td><td>256.3%/320.2</td><td>272.2%/340%</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Compétence élémentaire" %}
 <img src="https://api.ambr.top/assets/UI/Skill_S_Faruzan_01.png" alt="" data-size="line"> **E. Royaume venteux de nasamjnin**
+
+<div align="center" data-full-width="false">
+
+<figure><img src="../../.gitbook/assets/09eff51141cd0fa2dcd048a7961004b2_4354142515937429734.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Faruzan déploie un polyèdre qui inflige des DGT Anémo de zone aux ennemis proches et lui accorde l'état Épiphanie du vent.\
 Pendant l'état Épiphanie du vent, le prochain tir visé à pleine charge de Faruzan annule l'état et se transforme pour tirer une flèche d'ouragan qui contient des rafales à haute pression, infligeant des DGT Anémo selon les DGT d'un tir visé à pleine charge de l'attaque normale « Tir parthe ».\
@@ -55,7 +77,7 @@ Les DGT infligés par le vortex sont considérés comme des DGT de compétence �
 \
 _Les vents de la sincérité soufflent sur les esprits de ceux qui recherchent la vérité, dispersant les miasmes des idées préconçues._
 
-<table><thead><tr><th width="185">Coup</th><th>Niv. 1</th><th>Niv. 2</th><th>Niv. 3</th><th>Niv. 4</th><th>Niv. 5</th><th>Niv. 6</th><th>Niv. 7</th><th>Niv. 8</th><th>Niv. 9</th><th>Niv. 10</th><th>Niv. 11</th><th>Niv. 12</th><th>Niv. 13</th></tr></thead><tbody><tr><td>DGT compétence</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DGT vortex d'effondrement compressé</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="189">Niv.</th><th width="94">Niv.1</th><th>Niv.2</th><th>Niv.3</th><th>Niv.4</th><th>Niv.5</th><th>Niv.6</th><th>Niv.7</th><th>Niv.8</th><th>Niv.9</th><th>Niv.10</th><th>Niv.11</th><th>Niv.12</th><th>Niv.13</th></tr></thead><tbody><tr><td>DGT compétence</td><td>148.8%</td><td>160%</td><td>171.1%</td><td>186%</td><td>197.2%</td><td>208.3%</td><td>223.2%</td><td>238.1%</td><td>253%</td><td>267.8%</td><td>282.7%</td><td>297.6%</td><td>316.2%</td></tr><tr><td>DGT vortex d'effondrement compressé</td><td>108%</td><td>116.1%</td><td>124.2%</td><td>135%</td><td>143.1%</td><td>151.2%</td><td>162%</td><td>172.8%</td><td>183.6%</td><td>194.4%</td><td>205.2%</td><td>216%</td><td>229.5%</td></tr></tbody></table>
 
 **Durée d'épiphanie du vent** : 18 secondes\
 **Temps de recharge** : 6 secondes
@@ -63,6 +85,8 @@ _Les vents de la sincérité soufflent sur les esprits de ceux qui recherchent l
 
 {% tab title="Déchaînement élémentaire" %}
 <img src="https://api.ambr.top/assets/UI/Skill_E_Faruzan_01.png" alt="" data-size="line"> **Q. Sentier secret du vent**
+
+<figure><img src="../../.gitbook/assets/cce63e87ce0908ba5cc27331175d3d08_4903524491646921553.gif" alt=""><figcaption></figcaption></figure>
 
 Faruzan déploie rapidement un polyèdre éblouissant qui libère une impulsion de tourbillon et inflige des DGT Anémo de zone.\
 Pendant sa durée, le polyèdre éblouissant bouge de façon continue en suivant une trajectoire en triangle, libérant une impulsion de tourbillon à chaque fois qu'il arrive à une des pointes.\
@@ -73,7 +97,7 @@ Pendant sa durée, le polyèdre éblouissant bouge de façon continue en suivant
 \
 _Il est nécessaire de faire preuve de respect pour la sagesse inconnue qui pourrait être cachée dans des ruines antiques._
 
-<table><thead><tr><th width="185">Coup</th><th>Niv. 1</th><th>Niv. 2</th><th>Niv. 3</th><th>Niv. 4</th><th>Niv. 5</th><th>Niv. 6</th><th>Niv. 7</th><th>Niv. 8</th><th>Niv. 9</th><th>Niv. 10</th><th>Niv. 11</th><th>Niv. 12</th><th>Niv. 13</th></tr></thead><tbody><tr><td>DGT compétence</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Bonus DGT Anémo</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="194">Niv.</th><th width="95">Niv.1</th><th>Niv.2</th><th>Niv.3</th><th>Niv.4</th><th>Niv.5</th><th>Niv.6</th><th>Niv.7</th><th>Niv.8</th><th>Niv.9</th><th>Niv.10</th><th>Niv.11</th><th>Niv.12</th><th>Niv.13</th></tr></thead><tbody><tr><td>DGT compétence</td><td>377.6%</td><td>405.2%</td><td>434.2%</td><td>472%</td><td>500.3%</td><td>528.6%</td><td>566.4%</td><td>604.2%</td><td>641.9%</td><td>679.7%</td><td>717.4%</td><td>755.2%</td><td>802.4%</td></tr><tr><td>Bonus DGT Anémo</td><td>18%</td><td>19.4%</td><td>20.7%</td><td>22.5%</td><td>23.9%</td><td>25.2%</td><td>27%</td><td>28.8%</td><td>30.6%</td><td>32.4%</td><td>34.2%</td><td>36%</td><td>38.3%</td></tr></tbody></table>
 
 **Durée de vent de prière** : 4 secondes\
 **Baisse RÉS Anémo** : 30% secondes\
@@ -177,6 +201,8 @@ Obtention au niveau d'affinité 10
 {% tab title="Tenue" %}
 **Élégance immaculée**\
 Tenue de Faruzan. Ces habits simples qui n'en sont pas moins élégants sont à l'image de sa pureté incorruptible. Ils étaient très à la mode au sein de l'Académie le siècle dernier et sont rarement portés de nos jours.
+
+<figure><img src="../../.gitbook/assets/UI_Gacha_AvatarImg_Faruzan.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Spécialité culinaire" %}
@@ -191,7 +217,6 @@ Tenue de Faruzan. Ces habits simples qui n'en sont pas moins élégants sont à 
 {% tabs %}
 {% tab title="Aptitudes" %}
 * L'attaque chargée n'a pas d'ICD
-*
 {% endtab %}
 
 {% tab title="Constellations" %}
@@ -199,7 +224,6 @@ Tenue de Faruzan. Ces habits simples qui n'en sont pas moins élégants sont à 
 {% endtab %}
 
 {% tab title="Synergies" %}
-*
+* Hypercarry Anémo comme Xiao ou Nomade.
 {% endtab %}
 {% endtabs %}
-

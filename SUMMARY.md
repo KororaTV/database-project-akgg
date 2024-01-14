@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Base de données Project-AKGG](README.md)
-* [Glossaire](glossaire.md)
 * [Personnages](personnages/README.md)
   * [Anémo](personnages/anemo/README.md)
     * [Faruzan](personnages/anemo/faruzan.md)
@@ -24,6 +23,5 @@
 * [Ennemis](ennemis/README.md)
   * [Fatui](ennemis/fatui/README.md)
     * [Usurier Pyro des Fatui](ennemis/fatui/usurier-pyro-des-fatui.md)
-* [Profondeurs spiralées](profondeurs-spiralees.md)
-* [TCG](tcg.md)
 * [Ressources Genshin Impact](ressources-genshin-impact.md)
+* [TCG](tcg.md)

@@ -1,2 +1,0 @@
-# Profondeurs spiralées
-

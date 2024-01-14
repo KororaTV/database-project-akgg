@@ -20,7 +20,7 @@ _Une chercheuse qui vient « du siècle dernier ». Elle aime être l'aînée de
 
 ## Statistiques
 
-| Ascencion | Niveau | PV de base | ATQ de base | DEF de base | Taux CRIT | Dégâts CRIT | ATQ% |
+| Ascension | Niveau | PV de base | ATQ de base | DEF de base | Taux CRIT | Dégâts CRIT | ATQ% |
 | --------- | ------ | ---------- | ----------- | ----------- | --------- | ----------- | ---- |
 | A0        | 1/20   | 802        | 16          | 52          | 5%        | 50%         | 0%   |
 | A0        | 20/20  | 2 061      | 42          | 135         | 5%        | 50%         | 0%   |
@@ -209,6 +209,8 @@ Tenue de Faruzan. Ces habits simples qui n'en sont pas moins élégants sont à 
 **Charbon d'ajilenakh traditionnel**
 
 ![](https://api.ambr.top/assets/UI/UI\_ItemIcon\_108478.png)
+
+Effet : Réanime un personnage et restaure 20 % des PV max, puis encore 1 500 PV supplémentaires.
 {% endtab %}
 {% endtabs %}
 
